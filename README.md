@@ -8,11 +8,11 @@ Time series usually consists of trend and seasonal component, as a base for the 
 
 The main motivation of using time series analysis in this project is to develop an accurate predictive model from given set of time series data. 
 
-Dataset link: https://drive.google.com/drive/folders/0B_2zSqXCa_ksSWYyb3JySElKb1k?usp=sharing
-Data tables provided: product_pub, categorypr_pub, salespurchases.csv, warehouse, categorypr_pub
-Industry: IT
-Type of activity: retail, sales
-Dataset period: 2006-2001
-Period used in analysis: 2006-2008
+* Dataset link: https://drive.google.com/drive/folders/0B_2zSqXCa_ksSWYyb3JySElKb1k?usp=sharing
+* Data tables provided: product_pub, categorypr_pub, salespurchases.csv, warehouse, categorypr_pub
+* Industry: IT
+* Type of activity: retail, sales
+* Dataset period: 2006-2001
+* Period used in analysis: 2006-2008
 
 Data contains several stores which sales figures differ in size and direction.
