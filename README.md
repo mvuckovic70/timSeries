@@ -14,3 +14,5 @@ Industry: IT
 Type of activity: retail, sales
 Dataset period: 2006-2001
 Period used in analysis: 2006-2008
+
+Data contains several stores which sales figures differ in size and direction.
