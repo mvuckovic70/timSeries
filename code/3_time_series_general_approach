@@ -4,7 +4,7 @@
 # - dataset can also be split in weeks, by categories, stores, manufacturers
 # - note that various stores started selling in different times, periods are not equal
 # - first part of the analysis will be done on a whole dataset
-# - second part of the analysis will be broken down and deployed for each store
+# - second part of the analysis will be broken down and deployed for each store respectively
 # - results, forecasts and errors will be then compared
 
 # metrics of accuracy is evaluated with RMSE (root mean squared error) - the less the better
