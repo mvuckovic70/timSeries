@@ -15,6 +15,8 @@ The main motivation of using time series analysis in this project is to develop 
 * Dataset period: 2006-2001
 * Period used in analysis: 2006-2008
 
+This datasets brings a strong irregular component, which means that the trend and seasonality both exist, but in irregular intervals, since the observation period falls just before and after the big financial crisis in the late summer of 2008, making the prediction task even more difficult to analyse and forecast.
+
 There are several stores with sales activity, and sales figures may vary in size and direction from store to store.
 
 Project consist of several files with deployable code.
