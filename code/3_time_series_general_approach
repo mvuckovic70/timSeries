@@ -81,9 +81,9 @@ monthplot(tsales.subset, xlab="", ylab="")
 seasonplot(tsales.subset, year.labels="TRUE", main="")
 
 # simple exponential smoothing prediction with ets()
-# ANN - simple model (level only)           -> ses(ts)
-# AAN - double model (level and slope)      -> holt(ts)
-# AAA - triple model (level, slope seasonal)-> hw(ts)
+# ANN - simple model (level only)             -> ses(ts)
+# AAN - double model (level and slope)        -> holt(ts)
+# AAA - triple model (level, slope, seasonal) -> hw(ts)
 
 fit_ets <- ets(tsales.subset, model="ANN")
 forecast(fit_ets, 1)
@@ -160,4 +160,3 @@ fit_aa
 forecast(fit_aa, 3)
 accuracy(fit_aa)
 plot(forecast(fit_aa, 3), xlab="Year", ylab="Sales")
-
