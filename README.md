@@ -16,3 +16,5 @@ The main motivation of using time series analysis in this project is to develop 
 * Period used in analysis: 2006-2008
 
 There are several stores with sales activity, and sales figures may vary in size and direction from store to store.
+
+Project consist of several files with deployable code.
