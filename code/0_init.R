@@ -1,4 +1,4 @@
-# import functions
+# import functions, partner dataset omitted, because partner data impact the purchase activities only
 
 require(plyr)
 require(data.table)
