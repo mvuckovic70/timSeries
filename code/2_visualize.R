@@ -9,8 +9,6 @@ savePlot <- function(sPlot, sName) {
 }
 
 # function to save plot image
-
-# call function by typing saveImg(plotVariable, plotName)
 # sythax: saveImg(plotVariable, plotName)
 
 saveImg <- function(sName, sPlot){
